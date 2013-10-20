@@ -1,2 +1,2 @@
-g++ bridgeClean.cpp && ./a.out < input.txt
+g++ bridge.cpp && ./a.out < input.txt
 
